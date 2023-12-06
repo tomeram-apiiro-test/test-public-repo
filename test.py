@@ -1,6 +1,6 @@
 import requests
 
-password = "ghp_12345678901234567890123456789012"
+password = "AIzaSyCzmABOfcTbibaP_VmZPsFn0q3Ro2sXlHQ"
 
 response = requests.get('http://google.com', {'password': password})
 
